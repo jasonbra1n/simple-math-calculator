@@ -53,4 +53,4 @@ Feel free to submit issues or pull requests if you’d like to improve this proj
 - Persistent history across sessions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/jasonbra1n/gematria-calculator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://jasonbra1n.github.io/simple-math-calculator/LICENSE) file for details.
